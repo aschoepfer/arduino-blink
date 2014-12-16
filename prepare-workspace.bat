@@ -17,7 +17,7 @@ set EclipseArduinoVer=2014-07-02_17-56-02
 
 :: Expected Project Location (Eclipse CDT cannot deal with relative paths)
 set ArduinoProjects=C:\git\arduino-projects
-set ExpectedProjectHome=%ArduinoProjects%\arduino-blink\
+set ExpectedProjectHome=%ArduinoProjects%\arduino-blink-qp\
 
 ::-----------------------------------------------------------------------------
 :: Get the OS Variant
